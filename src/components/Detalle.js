@@ -29,7 +29,6 @@ const Detalle = () => {
       {movie && (
         <>
           <div className="">
-            <div>{movie.title}</div>
 
             <div className="row">
               <div className="col-4 ">
