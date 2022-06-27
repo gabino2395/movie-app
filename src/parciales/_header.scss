@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+
+
+
+
+.movie-list {
+    background-color: rgb(53, 52, 52);
+
+
+}
+
+header {
+
+    background-attachment: fixed;
+    background-size: cover;
+
+    justify-content: space-between;
+    align-items: center;
+    justify-items: end;
+    transition: 0.6s;
+}
